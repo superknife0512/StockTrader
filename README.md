@@ -1,0 +1,2 @@
+# StockTrader
+my final project 
